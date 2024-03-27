@@ -1,5 +1,5 @@
 # site-SNT
 
-ouvrir page1.html
-
-créer par Arthur Pruvost
+Site web de démonstration créée pour un cours de SNT.
+Aucune réelle utilité.
+Amusez-vous bien.
